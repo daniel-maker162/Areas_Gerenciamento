@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1780083672431,
+    "name": "🔌 Falta de energia elétrica",
+    "prob": 2,
+    "impact": 3,
+    "response": "Manter nobreak e gerador reserva. Backup em nuvem a cada hora."
+  },
+  {
+    "id": 1780083672432,
+    "name": "👨‍💻 Saída de desenvolvedor sênior",
+    "prob": 2,
+    "impact": 5,
+    "response": "Documentar conhecimento, treinar substituto, manter rede de contatos."
+  },
+  {
+    "id": 1780083672433,
+    "name": "📱 Mudança de requisitos pelo cliente",
+    "prob": 4,
+    "impact": 3,
+    "response": "Metodologia ágil, sprints curtas, contrato com limite de mudanças."
+  },
+  {
+    "id": 1780083672434,
+    "name": "💰 Estouro de orçamento",
+    "prob": 3,
+    "impact": 4,
+    "response": "Reserva de contingência de 15%, revisão semanal de custos."
+  },
+  {
+    "id": 1780083966945,
+    "name": "🦷 Falta de açúcar no escritório",
+    "prob": 2,
+    "impact": 3,
+    "response": "deixar um pequeno açucareiro no escritório"
+  },
+  {
+    "id": 1780084244937,
+    "name": "🌩️ Tempestade danifica roteador de internet",
+    "prob": 4,
+    "impact": 4,
+    "response": "separar cabos de rede dos cabos de eletricidade, colocar uma caixa de energia própria pra emergências assim"
+  },
+  {
+    "id": 1780084404720,
+    "name": "👨‍💼 Gerente de projetos sai da empresa",
+    "prob": 3,
+    "impact": 4,
+    "response": "ter mais de um, ou dois gerentes trabalhando pra caso de um sair ja ter outro pra cobrir trabalho, buscar contratar outro gerente o mais rápido possível"
+  },
+  {
+    "id": 1780084639040,
+    "name": "📉 Cliente reduz orçamento em 30% no meio do projeto",
+    "prob": 3,
+    "impact": 5,
+    "response": "reorganizar escopo, prioridades e recursos"
+  },
+  {
+    "id": 1780084940575,
+    "name": "🐛 Bug crítico em produção no fim de semana",
+    "prob": 3,
+    "impact": 4,
+    "response": "reduzir os impactos o mais rápido possível, achar o problema e iniciar uma correção"
+  },
+  {
+    "id": 1780085150999,
+    "name": "6 🏢 Fornecedor atrasa servidor em 2 semanas",
+    "prob": 2,
+    "impact": 4,
+    "response": "a empresa deve reduzir a dependência do equipamento atrasado ate ele chegar e reorganizar o projeto temporariamente"
+  },
+  {
+    "id": 1780085253943,
+    "name": "🧠 Desenvolvedor júnior erra (retrabalho 3 dias)",
+    "prob": 3,
+    "impact": 3,
+    "response": "reduzir os impactos no projeto e evitar que se repita"
+  }
+]
